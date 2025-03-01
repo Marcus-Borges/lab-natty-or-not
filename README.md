@@ -16,11 +16,11 @@ Usei o Grok, uma IA da xAI, pra me ajudar a estruturar essa ideia. Conversei com
 Depois, parti pra imagem. Tinha uma visão clara na cabeça: um prédio alto e minimalista, com vegetação sutil, contrastando com elementos artificiais que desafiassem a lógica. Desenvolvi um prompt com auxilio do Grok, o qual fui ajustando de forma a garantir o estilo clean que eu queria. Então, levei esse prompt pro PromptHero, uma plataforma que eu já conhecia pra gerar imagens com IA. Lá, testei algumas variações, ajustando palavras como "cinematic lighting" e "pastel sky" até chegar a uma imagem que capturasse exatamente o que eu imaginava: um edifício elegante, quase real, mas com aquele toque etéreo que faz você questionar.
 
 ## 🚀 Resultados
-![Edifício Natty](link-da-imagem-gerada)  
+![Edifício Natty](https://github.com/Marcus-Borges/lab-natty-or-not/blob/main/images/edificio-natty.jpg)
 *Imagem gerada com IA para o tema "Natural ou Falso".*
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Participar desse desafio da DIO com o tema "Natural ou Falso" me fez pensar bastante sobre o que significa criar algo "natty" usando inteligência artificial. No fisiculturismo, "natty" é aquilo que vem do esforço humano, sem artifícios externos, mas na arquitetura – e nesse projeto do "Edifício Natty" – percebi que o "natural" ganha um sentido diferente quando a IA entra em cena. Meu objetivo era fazer um prédio que parecesse plausível, algo que eu pudesse imaginar existindo em 2040, mas ao mesmo tempo carregasse um quê de artificialidade que desafiasse essa percepção. E aí veio o paradoxo: como usar uma ferramenta tão artificial pra criar algo que pareça orgânico e verdadeiro?
 
 
 
